@@ -78,20 +78,20 @@
             <label class="form-label">
               Name
             </label>
-          <input type="text" class="form-control border-0 shadow" value="Laimarie Diaz Bantuas">
+          <input type="text" class="form-control border-0 shadow bg-white" value="Laimarie Diaz Bantuas disabled">
           </div>
             <div class="row">
               <div class="col-lg-6 mb-3">
                 <label class="form-label">
                   Age
                 </label>
-              <input type="text" class="form-control border-0 shadow" value="22 years old">
+              <input type="text" class="form-control border-0 shadow bg-white" value="22 years old" disabled>
               </div>
               <div class="col-lg-6 mb-3">
                 <label class="form-label">
                   Birthdate
                 </label>
-              <input type="text" class="form-control border-0 shadow" value="March 4, 2002">
+              <input type="text" class="form-control border-0 shadow bg-white" value="March 4, 2002" disabled>
               </div>
             </div>
         </div>
@@ -100,13 +100,13 @@
             <label class="form-label">
               Address
             </label>
-          <input type="text" class="form-control border-0 shadow" value="Gabi, Cordova, Cebu">
+          <input type="text" class="form-control border-0 shadow bg-white" value="Gabi, Cordova, Cebu" disabled>
           </div>
           <div class="mb-3">
             <label class="form-label">
               Current Education Taken
             </label>
-          <input type="text" class="form-control border-0 shadow" value="Bacherlor of Science in Information Technology - Cordova Public College">
+          <input type="text" class="form-control border-0 shadow bg-white" value="Bacherlor of Science in Information Technology - Cordova Public College" disabled>
           </div>
         </div>
       </div>
