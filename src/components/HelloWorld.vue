@@ -150,7 +150,7 @@
             </div>
             <div class="col-md-4">
               <div class="card-body">
-                <h1 class="card-title main">Smart Dictionary</h1>
+                <h2 class="card-title main">Smart Dictionary</h2>
                 <p class="card-text text-secondary">API Integration for Merriam Webster Dictionary API with supported search and pagination fucnction.</p>
               </div>
             </div>
