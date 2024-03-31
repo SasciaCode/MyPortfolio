@@ -78,7 +78,7 @@
             <label class="form-label">
               Name
             </label>
-          <input type="text" class="form-control border-0 shadow bg-white" value="Laimarie Diaz Bantuas disabled">
+          <input type="text" class="form-control border-0 shadow bg-white" value="Laimarie Diaz Bantuas" disabled>
           </div>
             <div class="row">
               <div class="col-lg-6 mb-3">
