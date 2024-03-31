@@ -359,9 +359,7 @@ export default {
 </script>
 
 <style scoped>
-.left {
-  margin-left: 140px;
-}
+
 h3 {
   margin: 40px 0 0;
 }
